@@ -1,2 +1,3 @@
 PHP project
-run eith Composer
+Запускать с помощью Composer
+версия PHP 7.4, Apachi 2.4
